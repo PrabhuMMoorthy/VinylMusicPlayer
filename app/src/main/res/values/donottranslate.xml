@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Vinyl Music Player</string>
-    <string name="app_short_name" translatable="false">Vinyl</string>
+    <string name="app_name" translatable="false">J Music</string>
+    <string name="app_short_name" translatable="false">J Music</string>
 
-    <string name="adrien_poupa" translatable="false">Adrien Poupa</string>
+    <string name="prabhu_moorthy" translatable="false">Prabhu Moorthy</string>
     <string name="karim_abou_zeid" translatable="false">Karim Abou Zeid</string>
     <string name="aidan_follestad" translatable="false">Aidan Follestad</string>
     <string name="maarten_corpel" translatable="false">Maarten Corpel</string>

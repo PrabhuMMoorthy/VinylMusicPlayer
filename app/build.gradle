@@ -4,8 +4,8 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion '29.0.3'
+    compileSdkVersion 30
+    buildToolsVersion '30.0.2'
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 29
@@ -15,7 +15,7 @@ android {
 
         applicationId 'com.poupa.vinylmusicplayer'
         versionCode 171
-        versionName '0.24.1'
+        versionName '0.0.1'
 
         multiDexEnabled true
     }

@@ -56,7 +56,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/adrien_poupa"
+                    android:text="@string/prabhu_moorthy"
                     android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
 
             </LinearLayout>
@@ -73,7 +73,8 @@
             android:minHeight="@dimen/md_listitem_height"
             android:orientation="horizontal"
             android:paddingLeft="16dp"
-            android:paddingRight="16dp">
+            android:paddingRight="16dp"
+            android:visibility="gone">
 
             <com.poupa.vinylmusicplayer.views.IconImageView
                 android:id="@+id/icon_email"
@@ -104,7 +105,8 @@
             android:minHeight="@dimen/md_listitem_height"
             android:orientation="horizontal"
             android:paddingLeft="16dp"
-            android:paddingRight="16dp">
+            android:paddingRight="16dp"
+            android:visibility="gone">
 
             <com.poupa.vinylmusicplayer.views.IconImageView
                 android:id="@+id/icon_website"
